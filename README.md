@@ -13,8 +13,9 @@ A collection of my social media designs and branding work.
 ## 📌 Projects
 
 ### Social Media Posts
-![Design 1](image1.jpg)
-![Design 2](image2.jpg)
+![Design 2](mockup.jpg)
+![Design 1](front.jpg)
+![Design 2](back.jpg)
 
 ---
 
